@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="6000"
+	maxImageHeight="4000"
+	imageQuality="50"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	useFlash="false"
+	title="Chinatown"
+	galleryStyle="MODERN"
+	thumbPosition="BOTTOM"
+	thumbColumns="5"
+	thumbRows="1"
+
+>
+  <image imageURL="images/DSC_0407.JPG"
+	thumbURL="thumbs/DSC_0407.JPG"
+	linkURL="images/DSC_0407.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0408.JPG"
+	thumbURL="thumbs/DSC_0408.JPG"
+	linkURL="images/DSC_0408.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0409.JPG"
+	thumbURL="thumbs/DSC_0409.JPG"
+	linkURL="images/DSC_0409.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0410.JPG"
+	thumbURL="thumbs/DSC_0410.JPG"
+	linkURL="images/DSC_0410.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0411.JPG"
+	thumbURL="thumbs/DSC_0411.JPG"
+	linkURL="images/DSC_0411.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0412.JPG"
+	thumbURL="thumbs/DSC_0412.JPG"
+	linkURL="images/DSC_0412.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0413.JPG"
+	thumbURL="thumbs/DSC_0413.JPG"
+	linkURL="images/DSC_0413.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0414.JPG"
+	thumbURL="thumbs/DSC_0414.JPG"
+	linkURL="images/DSC_0414.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0415.JPG"
+	thumbURL="thumbs/DSC_0415.JPG"
+	linkURL="images/DSC_0415.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0417.JPG"
+	thumbURL="thumbs/DSC_0417.JPG"
+	linkURL="images/DSC_0417.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0418.JPG"
+	thumbURL="thumbs/DSC_0418.JPG"
+	linkURL="images/DSC_0418.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0419.JPG"
+	thumbURL="thumbs/DSC_0419.JPG"
+	linkURL="images/DSC_0419.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0420.JPG"
+	thumbURL="thumbs/DSC_0420.JPG"
+	linkURL="images/DSC_0420.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0421.JPG"
+	thumbURL="thumbs/DSC_0421.JPG"
+	linkURL="images/DSC_0421.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0422.JPG"
+	thumbURL="thumbs/DSC_0422.JPG"
+	linkURL="images/DSC_0422.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0423.JPG"
+	thumbURL="thumbs/DSC_0423.JPG"
+	linkURL="images/DSC_0423.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0426.JPG"
+	thumbURL="thumbs/DSC_0426.JPG"
+	linkURL="images/DSC_0426.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0427.JPG"
+	thumbURL="thumbs/DSC_0427.JPG"
+	linkURL="images/DSC_0427.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0428.JPG"
+	thumbURL="thumbs/DSC_0428.JPG"
+	linkURL="images/DSC_0428.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0429.JPG"
+	thumbURL="thumbs/DSC_0429.JPG"
+	linkURL="images/DSC_0429.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0430.JPG"
+	thumbURL="thumbs/DSC_0430.JPG"
+	linkURL="images/DSC_0430.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0431.JPG"
+	thumbURL="thumbs/DSC_0431.JPG"
+	linkURL="images/DSC_0431.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0432.JPG"
+	thumbURL="thumbs/DSC_0432.JPG"
+	linkURL="images/DSC_0432.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0433.JPG"
+	thumbURL="thumbs/DSC_0433.JPG"
+	linkURL="images/DSC_0433.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0434.JPG"
+	thumbURL="thumbs/DSC_0434.JPG"
+	linkURL="images/DSC_0434.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0435.JPG"
+	thumbURL="thumbs/DSC_0435.JPG"
+	linkURL="images/DSC_0435.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0436.JPG"
+	thumbURL="thumbs/DSC_0436.JPG"
+	linkURL="images/DSC_0436.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0437.JPG"
+	thumbURL="thumbs/DSC_0437.JPG"
+	linkURL="images/DSC_0437.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0438.JPG"
+	thumbURL="thumbs/DSC_0438.JPG"
+	linkURL="images/DSC_0438.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0439.JPG"
+	thumbURL="thumbs/DSC_0439.JPG"
+	linkURL="images/DSC_0439.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0440.JPG"
+	thumbURL="thumbs/DSC_0440.JPG"
+	linkURL="images/DSC_0440.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0441.JPG"
+	thumbURL="thumbs/DSC_0441.JPG"
+	linkURL="images/DSC_0441.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0306.JPG"
+	thumbURL="thumbs/DSC_0306.JPG"
+	linkURL="images/DSC_0306.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0309.JPG"
+	thumbURL="thumbs/DSC_0309.JPG"
+	linkURL="images/DSC_0309.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0312.JPG"
+	thumbURL="thumbs/DSC_0312.JPG"
+	linkURL="images/DSC_0312.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0314.JPG"
+	thumbURL="thumbs/DSC_0314.JPG"
+	linkURL="images/DSC_0314.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0317.JPG"
+	thumbURL="thumbs/DSC_0317.JPG"
+	linkURL="images/DSC_0317.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0395.JPG"
+	thumbURL="thumbs/DSC_0395.JPG"
+	linkURL="images/DSC_0395.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0397.JPG"
+	thumbURL="thumbs/DSC_0397.JPG"
+	linkURL="images/DSC_0397.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0398.JPG"
+	thumbURL="thumbs/DSC_0398.JPG"
+	linkURL="images/DSC_0398.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0401.JPG"
+	thumbURL="thumbs/DSC_0401.JPG"
+	linkURL="images/DSC_0401.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0402.JPG"
+	thumbURL="thumbs/DSC_0402.JPG"
+	linkURL="images/DSC_0402.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0404.JPG"
+	thumbURL="thumbs/DSC_0404.JPG"
+	linkURL="images/DSC_0404.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0405.JPG"
+	thumbURL="thumbs/DSC_0405.JPG"
+	linkURL="images/DSC_0405.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0406.JPG"
+	thumbURL="thumbs/DSC_0406.JPG"
+	linkURL="images/DSC_0406.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

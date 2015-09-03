@@ -1,0 +1,4 @@
+
+ErrorDocument 404 "[* request_path *]/http-error.cgi"
+ErrorDocument 500 "[* request_path *]/http-error.cgi"
+

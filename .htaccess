@@ -1,0 +1,24 @@
+
+
+<FILES "*.html">
+ForceType 'text/html; charset=UTF-8'
+</FILES>
+DirectoryIndex index.html
+AuthUserFile  /home/sites/ephesite.co.uk/public_html//.htpasswd
+AuthGroupFile /home/sites/ephesite.co.uk/public_html//.htgroup
+AuthName "Protected Area"
+AuthType Basic
+<FILES .htpasswd>
+deny from all
+</FILES>
+<FILES .htgroup>
+deny from all
+</FILES>
+<FILES .htaccess>
+deny from all
+</FILES>
+Options -Indexes
+ErrorDocument 404 /error/http-error.cgi
+ErrorDocument 500 /error/500.html
+
+

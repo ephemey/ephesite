@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+	font-family: Verdana;
+	/*        background-image: url("http://i.imgur.com/pI6KK67.png");*/
+	background-position: center top;
+	background-attachment: fixed;   
+	border-style: block;
+	border-width: 0; 
+	border-color: blue;   
+	padding: 0;
+	margin: 0; 
+	margin-top: 8%;
+	}
+a {
+	text-decoration:none;
+	color: #DFFF00;
+	}
+input {
+	border: none;
+	background: #F0F0F0;
+	width: 165px;
+	text-align:center;
+    }
+.rounded {
+	background: url(http://i.imgur.com/M0PQiAH.gif) no-repeat center;
+	padding: 8px;
+	width: 180px;
+	}

@@ -1,0 +1,7 @@
+
+AuthType basic
+    AuthUserFile "/home/sites/ephesite.co.uk/public_html/test/.htpasswd"
+    AuthGroupFile /dev/null
+    AuthName "Test Directory"
+    Require valid-user
+    

@@ -1,0 +1,84 @@
+body {
+	/*background: url('grunge2.jpg');*/
+	background: black;
+	color: #222;
+	font-family: Artifika;
+	font-size: 18px;
+	line-height: 170%;
+}
+/*
+a:link {color:#289BD0}
+a:visited {color:#0C548D}
+*/
+
+h1 {
+	font-size: 60px; 
+	font-weight: normal;
+	text-align:center; 
+	font-family: Copse;
+	text-shadow: 1px 1px 0 #000, 1px 1px 0px #ccc;
+}
+code, pre {
+	color: #ffffff;
+	background: #000;
+}
+
+code {
+	background: rgba(0,0,0,.7);
+	padding: 1px 3px;
+}
+
+pre {
+	background: rgba(0,0,0,.8);
+	padding: 1em;
+	border-radius: 1px;
+	box-shadow: 0 0 0 1px rgba(255,255,255,.3), 0 0 0 3px rgba(0,0,0,.8), 0 0 1px 4px rgba(255,255,255,.2), 0 0 1px 5px rgba(0,0,0,.2);
+}
+
+dl, .fig {
+	background: #fff;
+	background: rgba(255,255,255,.5);
+	box-shadow: 0 0 1px rgba(0,0,0,.2);
+	padding: 1em;
+	margin: 1em;
+}
+
+dd {
+	margin-bottom: .5em;
+}
+
+#main {
+	width: 800px; max-width: 95%; 
+	margin: 0 auto;
+}
+#bookmarklet {
+	/*background-color: #111;*/
+	background: -webkit-linear-gradient(top, #666, #111);
+	background: -moz-linear-gradient(top, #666, #111);
+	background: -o-linear-gradient(top, #666, #111);
+	background: -ms-linear-gradient(top, #666, #111);
+	box-shadow: 0 0 1px rgba(0,0,0,.2);
+	color: #ffffff;
+	padding: .2em 1em;
+	border-radius: 25px;
+	text-decoration: none;
+	display: inline-block;
+	margin: 1em auto;
+}
+.footnote {
+	font-size: .7em;
+}
+.fig {
+	text-align: center;
+}
+#bm p {
+	margin: 1em 0;
+	line-height: 1.1em;
+}
+#chart {
+	display: block;
+	margin: 0 auto;
+	background:rgba(255,255,255,.95);
+	box-shadow: 0 0 1px rgba(0,0,0,.1);
+	max-width: 100%;
+}
